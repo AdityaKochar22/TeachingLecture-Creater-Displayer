@@ -1,1 +1,0 @@
-# TeachingLecture-Creater-Displayer
