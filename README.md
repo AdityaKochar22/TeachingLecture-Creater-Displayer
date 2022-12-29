@@ -14,5 +14,5 @@ It is a Project used to create and dispaly lectures and its details for Teachers
 - **ListView Of The Lectures**  <br />
 <img width="1188" alt="Screenshot 2022-12-29 at 4 26 21 PM" src="https://user-images.githubusercontent.com/88288398/209943331-d6b89de3-e922-433f-b032-2fff0a0cc07b.png">
 
-- **BackEnd (Database for the Data)
+- **BackEnd (Database for the Data)** <br />
 <img width="475" height="400" alt="Screenshot 2022-12-29 at 4 27 07 PM" src="https://user-images.githubusercontent.com/88288398/209944312-9afd8aed-7671-4e32-8586-69859047757b.png"><img width="475" height="400" alt="Screenshot 2022-12-29 at 4 29 07 PM" src="https://user-images.githubusercontent.com/88288398/209944352-82491f5c-7554-4dac-b922-937413187ed8.png">
