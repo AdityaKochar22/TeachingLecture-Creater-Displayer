@@ -9,5 +9,5 @@ It is a Project used to create and dispaly lectures and its details for Teachers
 ## SCREENSHOTS
 
 - FrontEnd ( Form Page) 
-<img width="600" height="300" alt="Screenshot 2022-12-29 at 4 23 10 PM" src="https://user-images.githubusercontent.com/88288398/209942493-3bf2f997-3956-4442-931a-9791e6fe2d90.png">
-<img width="600" height="300" alt="Screenshot 2022-12-29 at 4 25 56 PM" src="https://user-images.githubusercontent.com/88288398/209942574-29618408-3d83-4f2e-ae2f-68b91a144aec.png">
+<img width="300" height="300" alt="Screenshot 2022-12-29 at 4 23 10 PM" src="https://user-images.githubusercontent.com/88288398/209942493-3bf2f997-3956-4442-931a-9791e6fe2d90.png">
+<img width="300" height="300" alt="Screenshot 2022-12-29 at 4 25 56 PM" src="https://user-images.githubusercontent.com/88288398/209942574-29618408-3d83-4f2e-ae2f-68b91a144aec.png">
